@@ -1,4 +1,4 @@
-# Rader-Project
+# Radar-Project
 
 ## Introduction
 Radar (Radio Detection and Ranging) is a system that uses electromagnetic waves to detect the presence, direction, distance, and speed of objects. It works by transmitting radio waves and analyzing the echoes that return after bouncing off objects. Radar technology plays a critical role in various fields including aviation, marine navigation, weather forecasting, military applications, and autonomous vehicles.
