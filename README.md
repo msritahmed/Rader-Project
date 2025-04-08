@@ -3,7 +3,7 @@
 ## Introduction
 Radar (Radio Detection and Ranging) is a system that uses electromagnetic waves to detect the presence, direction, distance, and speed of objects. It works by transmitting radio waves and analyzing the echoes that return after bouncing off objects. Radar technology plays a critical role in various fields including aviation, marine navigation, weather forecasting, military applications, and autonomous vehicles.
 
-## Component Required:
+## Components Required:
 1)	Arduino Uno
 
 2)	Servo motor (SG90)
@@ -25,7 +25,7 @@ Radar (Radio Detection and Ranging) is a system that uses electromagnetic waves 
 
 ## Picture from project
 ![image](https://github.com/user-attachments/assets/b00fc65c-c4ab-4316-a921-b0b3ea00effc)
-## Result:
+## Results:
 ### Without object
 ![image](https://github.com/user-attachments/assets/b9a84180-bd6c-45ed-a132-844ea3e42a87)
 ### With object
